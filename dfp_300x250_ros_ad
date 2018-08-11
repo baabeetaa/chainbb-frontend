@@ -1,0 +1,21 @@
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21733683912/test_300x250_ros_code', [300, 250], 'div-gpt-ad-1533749876889-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+<!-- /21733683912/test_300x250_ros_code -->
+<div id='div-gpt-ad-1533749876889-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1533749876889-0'); });
+</script>
+</div>
